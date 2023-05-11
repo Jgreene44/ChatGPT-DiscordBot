@@ -1,5 +1,3 @@
-Certainly! Here's an example of a README file for a personal Discord bot that utilizes ChatGPT:
-
 # Discord ChatGPT Bot
 
 This is a personal Discord bot powered by ChatGPT, an AI language model. The bot is designed to provide interactive chat-based functionality within your Discord server. Right now we have it working with our personal server but am building upon it to make it more flexible.
